@@ -181,9 +181,9 @@ paths:
     #
     # These don't require the standard formatting (with definition and root_name) because they
     # will be set within each template that uses the alias.
-    shot_root: sequences/{Sequence}/{Shot}/{Step}
-    asset_root: assets/{sg_asset_type}/{Asset}/{Step}
-    sequence_root: sequences/{Sequence}
+    shot_root: 02_3D/sequences/{Sequence}/{Shot}/{Step}
+    asset_root: 02_3D/assets/{sg_asset_type}/{Asset}/{Step}
+    sequence_root: 02_3D/sequences/{Sequence}
 
 
     ##########################################################################################

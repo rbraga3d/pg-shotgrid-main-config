@@ -29,7 +29,7 @@ engines.tk-aftereffects.location:
 engines.tk-alias.location:
   type: app_store
   name: tk-alias
-  version: v3.0.3
+  version: v3.0.4
 engines.tk-desktop.location:
   type: app_store
   name: tk-desktop
@@ -37,15 +37,15 @@ engines.tk-desktop.location:
 engines.tk-desktop2.location:
   type: app_store
   name: tk-desktop2
-  version: v1.5.2
+  version: v1.5.1
 engines.tk-flame.location:
   type: app_store
   name: tk-flame
-  version: v.18.0
+  version: v1.17.9
 engines.tk-houdini.location:
   type: app_store
   name: tk-houdini
-  version: v1.8.7
+  version: v1.8.8
 engines.tk-mari.location:
   type: app_store
   name: tk-mari
@@ -77,4 +77,4 @@ engines.tk-shotgun.location:
 engines.tk-vred.location:
   type: app_store
   name: tk-vred
-  version: v3.0.3
+  version: v3.0.4

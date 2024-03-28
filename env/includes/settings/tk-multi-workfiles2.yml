@@ -54,6 +54,7 @@ settings.tk-multi-workfiles2: &settings_tk-multi-workfiles2
 # launches at startup.
 settings.tk-multi-workfiles2.launch_at_startup:
   allow_task_creation: false
+  show_check_references_option: true
   check_references_on_file_open: true
   launch_at_startup: true
   show_my_tasks: false
@@ -295,6 +296,7 @@ settings.tk-multi-workfiles2.houdini.shot_step:
 # asset_step
 settings.tk-multi-workfiles2.maya.asset_step:
   allow_task_creation: false
+  show_check_references_option: true
   check_references_on_file_open: true
   show_my_tasks: false
   template_publish: maya_asset_publish
@@ -319,6 +321,7 @@ settings.tk-multi-workfiles2.maya.asset_step:
 # shot_step
 settings.tk-multi-workfiles2.maya.shot_step:
   allow_task_creation: false
+  show_check_references_option: true
   check_references_on_file_open: true
   show_my_tasks: false
   template_publish: maya_shot_publish
